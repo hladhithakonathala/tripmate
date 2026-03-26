@@ -24,4 +24,4 @@ TripMate is a smart travel planning application designed to help users explore d
 - Renuka Chintalla
 - Mrudula Raksha
 - Priyanka SeshaVardini
-- Varshini Mokara
+- Varshitha Mokara
